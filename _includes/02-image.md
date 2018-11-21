@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![To dare is to do](https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg)
